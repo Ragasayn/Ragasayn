@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Gigih Ragasajiwo from Central Java<br><br>- 📚 I'm currently learning Laravel, Codeigniter, Reactjs, Next.JS etc.<br>- 💻 In my free time every night unless I sleep.<br>- 💬 Ask me about Your Life Problem<br>- ⚡ Fun fact : I am Manchester United Fans, Funny, Humble, Kind</p>
+<p align="center">I'm Gigih Ragasajiwo from Central Java<br><br>- 📚 I'm currently learning Laravel, Codeigniter, Reactjs, Next.JS etc -<br>- 💻 In my free time every night unless I sleep. -<br>- 💬 Ask me about Your Life Problem -<br>- ⚡ Fun fact : I am Manchester United Fans, Funny, Humble, Kind -</p>
 
 ###
 
